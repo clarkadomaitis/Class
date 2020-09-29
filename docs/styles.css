@@ -34,6 +34,7 @@
   p{
     text-align: center;
     font-family: Georgia; 
+    font-size: large;
   }
 
   p2 {
@@ -54,8 +55,6 @@
     padding: 100px;
 }
 
-  }
-
   footer {
     text-align: center;
     font-family: Georgia; 
@@ -63,17 +62,18 @@
   }
 
 .wrapper {
-    padding: 30px;
-    width: 60%;
+    padding: 60px;
+    width: 80%;
     margin: auto;
     align-items: stretch;
     font-weight: bold;
     font-size-adjust: auto;
 }
+
 img {
     border: solid;
     border-color: #F984FC;
-    border-width: 150px;
+    border-width: 750px;
 }
  
 </style>
