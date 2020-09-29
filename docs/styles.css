@@ -24,6 +24,10 @@
     text-align: center;
     font-family: Georgia; 
     text-transform: uppercase;
+    color: purple;
+    background-color: #25383C;
+    padding: 30px;
+    C9B704
   }
 
   figure{
@@ -39,11 +43,11 @@
 
   p2 {
     text-align: right;
-    font-family: Georgia; 
+    font-family: Comic Sans; 
   }
 
   .boxed {
-     border: 1px solid green;
+     border: 10px solid green;
      background-color: #A8D3F2
      width: auto;
      padding: 20px;
@@ -53,7 +57,7 @@
     text-align: center;
     font-family: Georgia; 
     padding: 100px;
-}
+  }
 
   footer {
     text-align: center;
