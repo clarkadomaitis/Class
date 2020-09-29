@@ -23,6 +23,7 @@
   h1{
     text-align: center;
     font-family: Georgia; 
+    text-transform: uppercase;
   }
 
   figure{
@@ -36,7 +37,7 @@
   }
 
   p2 {
-    text-align: center;
+    text-align: right;
     font-family: Georgia; 
   }
 
@@ -50,7 +51,7 @@
   ol{
     text-align: center;
     font-family: Georgia; 
-    padding: 40px;
+    padding: 100px;
 }
 
   }
@@ -60,14 +61,19 @@
     font-family: Georgia; 
     color: gray;
   }
+
 .wrapper {
-    padding: 10px;
-    width: 70%;
+    padding: 30px;
+    width: 60%;
     margin: auto;
     align-items: stretch;
     font-weight: bold;
     font-size-adjust: auto;
 }
-
+img {
+    border: solid;
+    border-color: #F984FC;
+    border-width: 150px;
+}
  
 </style>
