@@ -1,7 +1,9 @@
 <style>
+
   .gray-text {
     color: gray;
   }
+
   header {
     text-align: center;
     text-transform: uppercase;
@@ -17,36 +19,55 @@
     text-transform: uppercase;
     font-family: Georgia; 
   }
+
   h1{
     text-align: center;
     font-family: Georgia; 
   }
+
   figure{
     text-align: center;
     font-family: Georgia; 
   }
+
   p{
     text-align: center;
     font-family: Georgia; 
   }
+
   p2 {
     text-align: center;
     font-family: Georgia; 
   }
+
   .boxed {
      border: 1px solid green;
      background-color: #A8D3F2
      width: auto;
      padding: 20px;
   }
+
   ol{
     text-align: center;
     font-family: Georgia; 
+    padding: 40px;
+}
+
   }
+
   footer {
     text-align: center;
     font-family: Georgia; 
     color: gray;
   }
+.wrapper {
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    align-items: stretch;
+    font-weight: bold;
+    font-size-adjust: auto;
+}
+
  
 </style>
